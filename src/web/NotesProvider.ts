@@ -204,7 +204,7 @@ button {
 
 <body>
 
-<h1>📝 My Quick Notes</h1>
+<h1>📝 Quick Pad</h1>
 
 <div id="findBox" style="
     display:none;
