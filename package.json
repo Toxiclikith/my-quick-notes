@@ -2,8 +2,9 @@
   "name": "quick-pad",
   "displayName": "Quick Pad",
   "description": "A fast and beautiful sidebar notes panel for VS Code",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "toxiclikith",
+  "icon": "media/icon.png",
    "repository": {
     "type": "git",
     "url": "https://github.com/toxiclikith/my-quick-notes.git"
@@ -32,7 +33,7 @@
         {
           "id": "my-quick-notes",
           "title": "Quick Pad",
-          "icon": "media/icon.svg"
+          "icon": "media/icon.png"
         }
       ]
     },
