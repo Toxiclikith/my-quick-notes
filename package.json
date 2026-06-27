@@ -1,7 +1,7 @@
 {
   "name": "quick-pad",
   "displayName": "Quick Pad",
-  "description": "Beautiful quick notes sidebar for VS Code",
+  "description": "A fast and beautiful sidebar notes panel for VS Code",
   "version": "0.0.3",
   "publisher": "toxiclikith",
    "repository": {
